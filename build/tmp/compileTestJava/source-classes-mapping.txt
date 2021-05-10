@@ -1,0 +1,2 @@
+com/backend/goty/GotyApplicationTests.java
+ com.backend.goty.GotyApplicationTests

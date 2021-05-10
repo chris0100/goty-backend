@@ -1,0 +1,12 @@
+com/backend/goty/GotyApplication.java
+ com.backend.goty.GotyApplication
+com/backend/goty/entities/Goty.java
+ com.backend.goty.entities.Goty
+com/backend/goty/controllers/GotyController.java
+ com.backend.goty.controllers.GotyController
+com/backend/goty/repositories/GotyRepository.java
+ com.backend.goty.repositories.GotyRepository
+com/backend/goty/services/GotyServiceImpl.java
+ com.backend.goty.services.GotyServiceImpl
+com/backend/goty/services/GotyService.java
+ com.backend.goty.services.GotyService
